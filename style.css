@@ -1,0 +1,12 @@
+
+footer {
+    display: flex; 
+    gap: 20px; 
+
+}
+
+img {
+    outline: 1px solid black; 
+    width: 50%; 
+    height: 200px; 
+}
